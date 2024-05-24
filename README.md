@@ -1,7 +1,7 @@
 <h1 style="text-align: left;">Hey Everyone 👋, I'm Cesar</h1>
 <h3 style="text-align: left;">System Engineer</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/cesarinmoca](https://github.com/cesarinmoca)
 
