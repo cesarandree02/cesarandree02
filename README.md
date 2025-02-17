@@ -1,12 +1,7 @@
 <h1 style="text-align: left;">Hey Everyone 👋, I'm Cesar</h1>
 <h3 style="text-align: left;">System Engineer</h3>
 
-- 🌱 I’m currently learning **Laravel**
-
-- 👨‍💻 All of my projects are available at [https://github.com/cesarinmoca](https://github.com/cesarinmoca)
-
 - 📫 How to reach me **cesarandree02@gmail.com**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
